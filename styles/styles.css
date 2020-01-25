@@ -15,3 +15,9 @@ button {
 .btn:not(:disabled):not(.disabled) {
     cursor: pointer;
   }
+
+
+.edit {
+    height: auto !important;
+    min-height: 100px !important;
+}
